@@ -1,4 +1,5 @@
 theme: jekyll-theme-modernist
+baseurl: /blog
 defaults:
   -
     scope:
