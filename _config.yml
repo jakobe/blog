@@ -1,5 +1,6 @@
-theme: jekyll-theme-modernist
+title: Basher blogging...
 baseurl: /blog
+theme: jekyll-theme-modernist
 defaults:
   -
     scope:
