@@ -4,5 +4,5 @@ date:   2017-11-23 20:15:24 -0100
 categories: blogging
 ---
 
-# My first blog entry...
+# Finally, my first blog entry!
 Oh and BTW some content...
