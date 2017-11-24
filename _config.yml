@@ -4,8 +4,8 @@ theme: jekyll-theme-modernist
 defaults:
   -
     scope:
-      path: "_posts"
-      #type: "posts"
+      path: _posts
+      type: post
     values:
-      layout: "post"
+      layout: post
       author: Jakob Engelbrecht
